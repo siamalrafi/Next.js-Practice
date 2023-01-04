@@ -17,9 +17,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <div>
-
-
+        <div style={{ color: 'red', backgroundColor: 'white', height: '600px' }}>
 
           <Link href={'blog/1'}>
             <h1>Blog 1</h1>
