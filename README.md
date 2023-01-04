@@ -21,7 +21,7 @@ Answer 2
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://placeimg.com/192/192/people)
 
 
 ## Tech Stack
